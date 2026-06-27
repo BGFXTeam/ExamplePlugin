@@ -16,7 +16,7 @@ import com.executor.plugin.Plugin;
 import com.executor.plugin.PluginContext;
 import com.executor.bgfxui.ScriptManager;
 
-public class ExampePlugin extends Plugin {
+public class ExamplePlugin extends Plugin {
 
     WindowManager wm;
 

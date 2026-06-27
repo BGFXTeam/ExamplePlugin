@@ -8,6 +8,7 @@ This project demonstrates how to create a BGFX plugin with:
 -   Floating overlay button
 -   Movable menus
 -   Script execution through `ScriptManager`
+-   Dynamic DEX loading
 
 ------------------------------------------------------------------------
 
